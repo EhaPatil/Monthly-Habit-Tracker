@@ -33,4 +33,4 @@ This dashboard enables users to analyze habit patterns, measure goal achievement
 ## Author
 
 **Eha Patil**
-B.Tech – Computer Science Engineering (AI & ML)
+B.E – Computer Science Engineering (AI & ML)
